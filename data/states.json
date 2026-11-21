@@ -3,10 +3,10 @@
     "code": "AL",
     "name": "Alabama",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -15,7 +15,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -24,7 +24,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -33,7 +33,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -42,7 +42,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -51,7 +51,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -67,11 +67,11 @@
   "AK": {
     "code": "AK",
     "name": "Alaska",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -80,7 +80,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -89,7 +89,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -98,7 +98,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -107,7 +107,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -116,7 +116,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -133,10 +133,10 @@
     "code": "AZ",
     "name": "Arizona",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -145,7 +145,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -154,7 +154,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -163,7 +163,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -172,7 +172,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -181,7 +181,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -198,10 +198,10 @@
     "code": "AR",
     "name": "Arkansas",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -210,7 +210,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -219,7 +219,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -228,7 +228,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -237,7 +237,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -246,7 +246,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -262,11 +262,11 @@
   "CA": {
     "code": "CA",
     "name": "California",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -275,7 +275,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -284,7 +284,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -293,7 +293,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -302,7 +302,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -311,7 +311,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -327,11 +327,11 @@
   "CO": {
     "code": "CO",
     "name": "Colorado",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -340,7 +340,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -349,7 +349,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -358,7 +358,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -367,7 +367,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -376,7 +376,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -392,11 +392,11 @@
   "CT": {
     "code": "CT",
     "name": "Connecticut",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -405,7 +405,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -414,7 +414,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -423,7 +423,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -432,7 +432,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -441,7 +441,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -458,10 +458,10 @@
     "code": "DE",
     "name": "Delaware",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -470,7 +470,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -479,7 +479,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -488,7 +488,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -497,7 +497,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -506,7 +506,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -523,10 +523,10 @@
     "code": "DC",
     "name": "District of Columbia",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -535,7 +535,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -544,7 +544,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -553,7 +553,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -562,7 +562,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -571,7 +571,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -588,10 +588,10 @@
     "code": "FL",
     "name": "Florida",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -600,7 +600,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -609,7 +609,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -618,7 +618,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -627,7 +627,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -636,7 +636,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -653,10 +653,10 @@
     "code": "GA",
     "name": "Georgia",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -665,7 +665,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -674,7 +674,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -683,7 +683,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -692,7 +692,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -701,7 +701,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -718,10 +718,10 @@
     "code": "HI",
     "name": "Hawaii",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -730,7 +730,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -739,7 +739,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -748,7 +748,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -757,7 +757,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -766,7 +766,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -782,11 +782,11 @@
   "ID": {
     "code": "ID",
     "name": "Idaho",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -795,7 +795,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -804,7 +804,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -813,7 +813,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -822,7 +822,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -831,7 +831,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -848,10 +848,10 @@
     "code": "IL",
     "name": "Illinois",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -860,7 +860,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -869,7 +869,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -878,7 +878,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -887,7 +887,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -896,7 +896,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -913,10 +913,10 @@
     "code": "IN",
     "name": "Indiana",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -925,7 +925,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -934,7 +934,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -943,7 +943,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -952,7 +952,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -961,7 +961,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -977,11 +977,11 @@
   "IA": {
     "code": "IA",
     "name": "Iowa",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -990,7 +990,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -999,7 +999,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1008,7 +1008,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1017,7 +1017,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1026,7 +1026,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1042,11 +1042,11 @@
   "KS": {
     "code": "KS",
     "name": "Kansas",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1055,7 +1055,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1064,7 +1064,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1073,7 +1073,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1082,7 +1082,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1091,7 +1091,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1108,10 +1108,10 @@
     "code": "KY",
     "name": "Kentucky",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1120,7 +1120,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1129,7 +1129,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1138,7 +1138,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1147,7 +1147,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1156,7 +1156,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1173,10 +1173,10 @@
     "code": "LA",
     "name": "Louisiana",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1185,7 +1185,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1194,7 +1194,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1203,7 +1203,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1212,7 +1212,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1221,7 +1221,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1237,11 +1237,11 @@
   "ME": {
     "code": "ME",
     "name": "Maine",
-    "status": "conditional_independence",
-    "updated": null,
+    "status": "supervision_required",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1250,7 +1250,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1259,7 +1259,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1268,7 +1268,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1277,7 +1277,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1286,7 +1286,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1302,11 +1302,11 @@
   "MD": {
     "code": "MD",
     "name": "Maryland",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1315,7 +1315,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1324,7 +1324,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1333,7 +1333,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1342,7 +1342,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1351,7 +1351,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1368,10 +1368,10 @@
     "code": "MA",
     "name": "Massachusetts",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1380,7 +1380,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1389,7 +1389,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1398,7 +1398,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1407,7 +1407,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1416,7 +1416,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1433,10 +1433,10 @@
     "code": "MI",
     "name": "Michigan",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1445,7 +1445,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1454,7 +1454,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1463,7 +1463,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1472,7 +1472,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1481,7 +1481,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1498,10 +1498,10 @@
     "code": "MN",
     "name": "Minnesota",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1510,7 +1510,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1519,7 +1519,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1528,7 +1528,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1537,7 +1537,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1546,7 +1546,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1563,10 +1563,10 @@
     "code": "MS",
     "name": "Mississippi",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1575,7 +1575,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1584,7 +1584,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1593,7 +1593,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1602,7 +1602,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1611,7 +1611,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1628,10 +1628,10 @@
     "code": "MO",
     "name": "Missouri",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1640,7 +1640,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1649,7 +1649,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1658,7 +1658,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1667,7 +1667,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1676,7 +1676,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1693,10 +1693,10 @@
     "code": "MT",
     "name": "Montana",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1705,7 +1705,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1714,7 +1714,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1723,7 +1723,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1732,7 +1732,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1741,7 +1741,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1757,11 +1757,11 @@
   "NE": {
     "code": "NE",
     "name": "Nebraska",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1770,7 +1770,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1779,7 +1779,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1788,7 +1788,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1797,7 +1797,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1806,7 +1806,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1822,11 +1822,11 @@
   "NV": {
     "code": "NV",
     "name": "Nevada",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1835,7 +1835,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1844,7 +1844,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1853,7 +1853,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1862,7 +1862,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1871,7 +1871,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1888,10 +1888,10 @@
     "code": "NH",
     "name": "New Hampshire",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1900,7 +1900,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1909,7 +1909,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1918,7 +1918,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1927,7 +1927,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1936,7 +1936,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1953,10 +1953,10 @@
     "code": "NJ",
     "name": "New Jersey",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1965,7 +1965,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1974,7 +1974,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1983,7 +1983,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -1992,7 +1992,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2001,7 +2001,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2017,11 +2017,11 @@
   "NM": {
     "code": "NM",
     "name": "New Mexico",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2030,7 +2030,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2039,7 +2039,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2048,7 +2048,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2057,7 +2057,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2066,7 +2066,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2083,10 +2083,10 @@
     "code": "NY",
     "name": "New York",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2095,7 +2095,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2104,7 +2104,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2113,7 +2113,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2122,7 +2122,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2131,7 +2131,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2147,11 +2147,11 @@
   "NC": {
     "code": "NC",
     "name": "North Carolina",
-    "status": "conditional_independence",
-    "updated": null,
+    "status": "supervision_required",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2160,7 +2160,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2169,7 +2169,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2178,7 +2178,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2187,7 +2187,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2196,7 +2196,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2213,10 +2213,10 @@
     "code": "ND",
     "name": "North Dakota",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2225,7 +2225,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2234,7 +2234,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2243,7 +2243,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2252,7 +2252,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2261,7 +2261,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2278,10 +2278,10 @@
     "code": "OH",
     "name": "Ohio",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2290,7 +2290,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2299,7 +2299,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2308,7 +2308,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2317,7 +2317,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2326,7 +2326,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2342,11 +2342,11 @@
   "OK": {
     "code": "OK",
     "name": "Oklahoma",
-    "status": "conditional_independence",
-    "updated": null,
+    "status": "supervision_required",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2355,7 +2355,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2364,7 +2364,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2373,7 +2373,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2382,7 +2382,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2391,7 +2391,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2408,10 +2408,10 @@
     "code": "OR",
     "name": "Oregon",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2420,7 +2420,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2429,7 +2429,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2438,7 +2438,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2447,7 +2447,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2456,7 +2456,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2473,10 +2473,10 @@
     "code": "PA",
     "name": "Pennsylvania",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2485,7 +2485,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2494,7 +2494,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2503,7 +2503,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2512,7 +2512,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2521,7 +2521,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2538,10 +2538,10 @@
     "code": "PR",
     "name": "Puerto Rico",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2550,7 +2550,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2559,7 +2559,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2568,7 +2568,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2577,7 +2577,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2586,7 +2586,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2603,10 +2603,10 @@
     "code": "RI",
     "name": "Rhode Island",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2615,7 +2615,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2624,7 +2624,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2633,7 +2633,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2642,7 +2642,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2651,7 +2651,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2668,10 +2668,10 @@
     "code": "SC",
     "name": "South Carolina",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2680,7 +2680,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2689,7 +2689,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2698,7 +2698,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2707,7 +2707,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2716,7 +2716,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2733,10 +2733,10 @@
     "code": "SD",
     "name": "South Dakota",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2745,7 +2745,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2754,7 +2754,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2763,7 +2763,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2772,7 +2772,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2781,7 +2781,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2798,10 +2798,10 @@
     "code": "TN",
     "name": "Tennessee",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2810,7 +2810,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2819,7 +2819,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2828,7 +2828,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2837,7 +2837,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2846,7 +2846,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2863,10 +2863,10 @@
     "code": "TX",
     "name": "Texas",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2875,7 +2875,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2884,7 +2884,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2893,7 +2893,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2902,7 +2902,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2911,7 +2911,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2927,11 +2927,11 @@
   "UT": {
     "code": "UT",
     "name": "Utah",
-    "status": "conditional_independence",
-    "updated": null,
+    "status": "supervision_required",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2940,7 +2940,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2949,7 +2949,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2958,7 +2958,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2967,7 +2967,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2976,7 +2976,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -2993,10 +2993,10 @@
     "code": "VT",
     "name": "Vermont",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3005,7 +3005,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3014,7 +3014,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3023,7 +3023,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3032,7 +3032,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3041,7 +3041,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3057,11 +3057,11 @@
   "VA": {
     "code": "VA",
     "name": "Virginia",
-    "status": "conditional_independence",
-    "updated": null,
+    "status": "supervision_required",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3070,7 +3070,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3079,7 +3079,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3088,7 +3088,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3097,7 +3097,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3106,7 +3106,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3123,10 +3123,10 @@
     "code": "WA",
     "name": "Washington",
     "status": "conditional_independence",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3135,7 +3135,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3144,7 +3144,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3153,7 +3153,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3162,7 +3162,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3171,7 +3171,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3188,10 +3188,10 @@
     "code": "WV",
     "name": "West Virginia",
     "status": "supervision_required",
-    "updated": null,
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3200,7 +3200,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3209,7 +3209,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3218,7 +3218,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "supervision_required",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3227,7 +3227,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3236,7 +3236,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3252,11 +3252,11 @@
   "WI": {
     "code": "WI",
     "name": "Wisconsin",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3265,7 +3265,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3274,7 +3274,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3283,7 +3283,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3292,7 +3292,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3301,7 +3301,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3317,11 +3317,11 @@
   "WY": {
     "code": "WY",
     "name": "Wyoming",
-    "status": "supervision_required",
-    "updated": null,
+    "status": "conditional_independence",
+    "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
-        "status": null,
+        "status": "conditional_independence",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3330,7 +3330,7 @@
         "transition_hours": null
       },
       "NP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3339,7 +3339,7 @@
         "transition_hours": null
       },
       "PMHNP": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3348,7 +3348,7 @@
         "transition_hours": null
       },
       "CRNA": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3357,7 +3357,7 @@
         "transition_hours": null
       },
       "CNM": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
@@ -3366,7 +3366,7 @@
         "transition_hours": null
       },
       "CNS": {
-        "status": null,
+        "status": "independent",
         "ratio_cap": null,
         "proximity": null,
         "chart_review": null,
