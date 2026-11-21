@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Supervision & Collaboration by State · Tiger Medical</title>
+<meta name="description" content="Supervision and collaborative practice requirements for advanced practice clinicians in every US state. A reference by Tiger Medical."/>
+<link rel="stylesheet" href="styles.css"/>
+<link rel="icon" href="assets/tiger-logo.png"/>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="assets/tiger-logo.png" alt="Tiger Medical"/>
+      <div>
+        <div class="name">Tiger Medical</div>
+        <div class="tag">Hic Sunt Leones</div>
+      </div>
+    </a>
+    <nav>
+      <a href="#map">States</a>
+      <a href="#about">About</a>
+      <a href="https://www.lion.md">lion.md</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Supervision &amp; collaboration,<br/><em>by state.</em></h1>
+    <p class="sub">A reference for nurse practitioners, physician assistants, and the physicians they practice with — what every US jurisdiction requires, who can practice independently, and what the agreement needs to say.</p>
+    <div class="meta">Updated November 2026</div>
+  </div>
+</section>
+
+<section class="map-section" id="map">
+  <div class="wrap">
+    <div class="legend">
+      <span class="chip"><span class="swatch supervision"></span>Supervision required</span>
+      <span class="chip"><span class="swatch conditional"></span>Conditional independence</span>
+      <span class="chip"><span class="swatch independent"></span>Independent practice</span>
+      <span class="chip"><span class="swatch unknown"></span>Under review</span>
+    </div>
+    <div class="map-wrap">
+      <svg id="us-map" viewBox="0 0 975 610" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Interactive map of US states"></svg>
+      <div class="tooltip" id="tooltip"><div class="t-name"></div><div class="t-status"></div></div>
+    </div>
+    <div class="states-grid" id="states-grid"></div>
+  </div>
+</section>
+
+<section class="section" id="about">
+  <div class="wrap">
+    <h2>What is a supervision agreement?</h2>
+    <p>A supervision or collaborative practice agreement is the written arrangement between an advanced practice clinician — a nurse practitioner, physician assistant, or other licensed clinician — and the physician responsible for working with them. It names the physician, sets out what the clinician may do and prescribe, and specifies how the physician is reached and how charts are reviewed.</p>
+    <p>Rules vary by state and by clinician type. Some jurisdictions grant independent practice after a transition period; others require a physician throughout a clinician's career. Each page here summarizes the rules for that state and cites the statute or administrative code behind every term.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>About this reference</h2>
+    <p>This site is published by Tiger Medical, PLLC as an educational reference for clinicians and the physicians who practice with them. Our summaries are drawn from state statutes, administrative codes, and licensing-board rules. We cite every claim, and our team revisits each page as rules change.</p>
+    <p>Nothing here is legal advice. Rules change; boards issue guidance; the words that govern your practice are the ones in your state's statute. Confirm current requirements with your licensing board and a licensed attorney before acting.</p>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="disclaimer">© 2026 Tiger Medical, PLLC. For educational purposes only — not legal advice. Research sourced from state statutes, admin codes, and board rules; confirm current requirements with your board.</div>
+    <div>Hic Sunt Leones</div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="map.js"></script>
+</body></html>

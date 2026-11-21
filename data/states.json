@@ -1,0 +1,3382 @@
+{
+  "AL": {
+    "code": "AL",
+    "name": "Alabama",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "AK": {
+    "code": "AK",
+    "name": "Alaska",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "AZ": {
+    "code": "AZ",
+    "name": "Arizona",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "AR": {
+    "code": "AR",
+    "name": "Arkansas",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "CA": {
+    "code": "CA",
+    "name": "California",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "CO": {
+    "code": "CO",
+    "name": "Colorado",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "CT": {
+    "code": "CT",
+    "name": "Connecticut",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "DE": {
+    "code": "DE",
+    "name": "Delaware",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "DC": {
+    "code": "DC",
+    "name": "District of Columbia",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "FL": {
+    "code": "FL",
+    "name": "Florida",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "GA": {
+    "code": "GA",
+    "name": "Georgia",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "HI": {
+    "code": "HI",
+    "name": "Hawaii",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "ID": {
+    "code": "ID",
+    "name": "Idaho",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "IL": {
+    "code": "IL",
+    "name": "Illinois",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "IN": {
+    "code": "IN",
+    "name": "Indiana",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "IA": {
+    "code": "IA",
+    "name": "Iowa",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "KS": {
+    "code": "KS",
+    "name": "Kansas",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "KY": {
+    "code": "KY",
+    "name": "Kentucky",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "LA": {
+    "code": "LA",
+    "name": "Louisiana",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "ME": {
+    "code": "ME",
+    "name": "Maine",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MD": {
+    "code": "MD",
+    "name": "Maryland",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Massachusetts",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MI": {
+    "code": "MI",
+    "name": "Michigan",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MN": {
+    "code": "MN",
+    "name": "Minnesota",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mississippi",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MO": {
+    "code": "MO",
+    "name": "Missouri",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Montana",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NE": {
+    "code": "NE",
+    "name": "Nebraska",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NV": {
+    "code": "NV",
+    "name": "Nevada",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NH": {
+    "code": "NH",
+    "name": "New Hampshire",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NJ": {
+    "code": "NJ",
+    "name": "New Jersey",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NM": {
+    "code": "NM",
+    "name": "New Mexico",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NY": {
+    "code": "NY",
+    "name": "New York",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "NC": {
+    "code": "NC",
+    "name": "North Carolina",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "ND": {
+    "code": "ND",
+    "name": "North Dakota",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "OH": {
+    "code": "OH",
+    "name": "Ohio",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "OK": {
+    "code": "OK",
+    "name": "Oklahoma",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "OR": {
+    "code": "OR",
+    "name": "Oregon",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "PR": {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "RI": {
+    "code": "RI",
+    "name": "Rhode Island",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "SC": {
+    "code": "SC",
+    "name": "South Carolina",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "SD": {
+    "code": "SD",
+    "name": "South Dakota",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "TN": {
+    "code": "TN",
+    "name": "Tennessee",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "TX": {
+    "code": "TX",
+    "name": "Texas",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "UT": {
+    "code": "UT",
+    "name": "Utah",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "VT": {
+    "code": "VT",
+    "name": "Vermont",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "VA": {
+    "code": "VA",
+    "name": "Virginia",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "WA": {
+    "code": "WA",
+    "name": "Washington",
+    "status": "conditional_independence",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "WV": {
+    "code": "WV",
+    "name": "West Virginia",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "WI": {
+    "code": "WI",
+    "name": "Wisconsin",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  },
+  "WY": {
+    "code": "WY",
+    "name": "Wyoming",
+    "status": "supervision_required",
+    "updated": null,
+    "clinician_types": {
+      "PA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "NP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "PMHNP": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CRNA": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      },
+      "CNS": {
+        "status": null,
+        "ratio_cap": null,
+        "proximity": null,
+        "chart_review": null,
+        "meeting_cadence": null,
+        "prescribing": null,
+        "transition_hours": null
+      }
+    },
+    "agreement_name": null,
+    "summary": null,
+    "citations": []
+  }
+}
