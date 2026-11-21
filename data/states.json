@@ -132,16 +132,16 @@
   "AZ": {
     "code": "AZ",
     "name": "Arizona",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; supervising physician accessible",
+        "chart_review": "Per supervisory agreement",
+        "meeting_cadence": "Per supervisory agreement",
+        "prescribing": "Schedules II\u2013V under supervisory agreement; A.R.S. \u00a7 32-2536",
         "transition_hours": null
       },
       "NP": {
@@ -150,7 +150,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; A.R.S. \u00a7 32-1639; DEA registration required",
         "transition_hours": null
       },
       "PMHNP": {
@@ -159,7 +159,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V",
         "transition_hours": null
       },
       "CRNA": {
@@ -168,7 +168,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Arizona is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -177,7 +177,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; A.R.S. \u00a7 32-1639",
         "transition_hours": null
       },
       "CNS": {
@@ -186,13 +186,30 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "A.R.S. \u00a7 32-1636 \u2014 Arizona Board of Nursing powers and duties (APRN framework)",
+        "cite": "Ariz. Rev. Stat. \u00a7 32-1636 (2024)"
+      },
+      {
+        "text": "A.R.S. \u00a7 32-1639 \u2014 NP prescriptive authority; full Schedule II\u2013V",
+        "cite": "Ariz. Rev. Stat. \u00a7 32-1639 (2024)"
+      },
+      {
+        "text": "A.R.S. \u00a7 32-2536 \u2014 PA prescriptive authority; supervisory agreement required",
+        "cite": "Ariz. Rev. Stat. \u00a7 32-2536 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (Arizona opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      }
+    ]
   },
   "AR": {
     "code": "AR",
@@ -268,28 +285,28 @@
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; physician consultation available",
+        "chart_review": "Per supervision agreement",
+        "meeting_cadence": "Per agreement",
+        "prescribing": "Schedules II\u2013V under physician supervision agreement; Cal. Bus. & Prof. Code \u00a7 3502.1",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; physician consultation available",
+        "chart_review": "Per standardized procedure agreement",
+        "meeting_cadence": "Per agreement",
+        "prescribing": "May 'furnish' (not prescribe) drugs including Schedules II\u2013V under standardized procedure or with NPFN; Cal. Bus. & Prof. Code \u00a7 2836.1",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per standardized procedure",
+        "meeting_cadence": "Per agreement",
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications; Cal. Bus. & Prof. Code \u00a7 2836.1",
         "transition_hours": null
       },
       "CRNA": {
@@ -298,45 +315,66 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; California is a CMS CRNA opt-out state since 2009; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per furnishing agreement",
+        "meeting_cadence": "Per agreement",
+        "prescribing": "Furnishing authority; Schedules II\u2013V; Cal. Bus. & Prof. Code \u00a7 2746.51",
         "transition_hours": null
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per standardized procedure",
+        "meeting_cadence": "Per agreement",
+        "prescribing": "Furnishing authority; same framework as NP",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Standardized Procedure / Furnishing Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Cal. Bus. & Prof. Code \u00a7 2836.1 \u2014 NP furnishing authority; standardized procedures; full Schedule II\u2013V",
+        "cite": "Cal. Bus. & Prof. Code \u00a7 2836.1 (2024)"
+      },
+      {
+        "text": "Cal. Bus. & Prof. Code \u00a7 2836.3 \u2014 Standardized procedure requirements",
+        "cite": "Cal. Bus. & Prof. Code \u00a7 2836.3 (2024)"
+      },
+      {
+        "text": "Cal. Bus. & Prof. Code \u00a7 3502.1 \u2014 PA prescriptive authority under physician supervision",
+        "cite": "Cal. Bus. & Prof. Code \u00a7 3502.1 (2024)"
+      },
+      {
+        "text": "Cal. Bus. & Prof. Code \u00a7 2746.51 \u2014 CNM furnishing authority",
+        "cite": "Cal. Bus. & Prof. Code \u00a7 2746.51 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (California opted out 2009)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      }
+    ]
   },
   "CO": {
     "code": "CO",
     "name": "Colorado",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full Schedule II\u2013V under practice agreement; C.R.S. \u00a7 12-240-107",
         "transition_hours": null
       },
       "NP": {
@@ -345,7 +383,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; C.R.S. \u00a7 12-255-112; must be on advanced practice registry",
         "transition_hours": null
       },
       "PMHNP": {
@@ -354,7 +392,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
@@ -363,7 +401,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Colorado is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -372,7 +410,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; C.R.S. \u00a7 12-255-112",
         "transition_hours": null
       },
       "CNS": {
@@ -381,13 +419,30 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; C.R.S. \u00a7 12-255-112",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "C.R.S. \u00a7 12-255-112 \u2014 Prescriptive authority for APRNs; full Schedule II\u2013V",
+        "cite": "Colo. Rev. Stat. \u00a7 12-255-112 (2024)"
+      },
+      {
+        "text": "C.R.S. \u00a7 12-255-110 \u2014 APRN licensure; advanced practice registry",
+        "cite": "Colo. Rev. Stat. \u00a7 12-255-110 (2024)"
+      },
+      {
+        "text": "C.R.S. \u00a7 12-240-107 \u2014 PA practice agreements",
+        "cite": "Colo. Rev. Stat. \u00a7 12-240-107 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA supervision opt-out (Colorado opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      }
+    ]
   },
   "CT": {
     "code": "CT",
@@ -587,67 +642,88 @@
   "FL": {
     "code": "FL",
     "name": "Florida",
-    "status": "supervision_required",
+    "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Must be under supervision of licensed Florida physician; Fla. Stat. \u00a7 458.347",
+        "chart_review": "Physician reviews at least 10% of medical records biannually; Fla. Admin. Code 64B8-30.012",
+        "meeting_cadence": "Must be available within 30 minutes (phone/telehealth) during working hours",
+        "prescribing": "May prescribe Schedules III\u2013V; Schedule II limited to 7-day supply (30-day for specific conditions); Fla. Stat. \u00a7 458.347(4)",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "Under supervised practice (pre-autonomous): no geographic cap; physician accessible. Under autonomous practice: none.",
+        "chart_review": "Under supervised practice: per protocol. Under autonomous practice: none required.",
+        "meeting_cadence": "Per protocol (supervised period)",
+        "prescribing": "Under Fla. Stat. \u00a7 464.012(4): may prescribe Schedules III\u2013V and certain Schedule II (72-hour emergency supply) under protocol. After autonomous registration under \u00a7 464.0123: full prescriptive authority including Schedule II within scope.",
+        "transition_hours": "3,000 clinical practice hours under physician supervision within the 5 years prior to autonomous practice application; Fla. Stat. \u00a7 464.0123(1)(c)"
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "Same as NP",
+        "chart_review": "Same as NP",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "Same as NP; psychiatric medications including controlled substances after autonomous registration",
+        "transition_hours": "3,000 hours; Fla. Stat. \u00a7 464.0123(1)(c)"
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician (anesthesiologist or operating physician) must supervise or be immediately available",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "Same 3,000-hour autonomous path available; Fla. Stat. \u00a7 464.0123",
+        "chart_review": "Per protocol during supervised period",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "Same as NP after autonomous registration",
+        "transition_hours": "3,000 hours; Fla. Stat. \u00a7 464.0123(1)(c)"
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "Same as NP",
+        "chart_review": "Per protocol",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "Same as NP after autonomous registration",
+        "transition_hours": "3,000 hours; Fla. Stat. \u00a7 464.0123(1)(c)"
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Protocol Agreement \u2192 Autonomous Practice Registration",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Fla. Stat. \u00a7 464.012 \u2014 Licensure of APRNs; prescribing authority under protocol",
+        "cite": "Fla. Stat. \u00a7 464.012 (2024)"
+      },
+      {
+        "text": "Fla. Stat. \u00a7 464.0123 \u2014 Autonomous practice by an APRN; 3,000-hour requirement",
+        "cite": "Fla. Stat. \u00a7 464.0123 (2024)"
+      },
+      {
+        "text": "Fla. Stat. \u00a7 458.347 \u2014 Physician assistants; scope and prescribing",
+        "cite": "Fla. Stat. \u00a7 458.347 (2024)"
+      },
+      {
+        "text": "Fla. Admin. Code 64B8-30.012 \u2014 PA supervision and chart review (10% biannual)",
+        "cite": "Fla. Admin. Code r. 64B8-30.012"
+      },
+      {
+        "text": "Florida Board of Nursing \u2014 APRN licensure",
+        "cite": "https://floridasnursing.gov/licensing/advanced-registered-nurse-practitioner/"
+      }
+    ]
   },
   "GA": {
     "code": "GA",
@@ -657,62 +733,79 @@
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "One supervising physician per PA job description; O.C.G.A. \u00a7 43-34-102",
+        "proximity": "No geographic cap; physician must be accessible by telecommunication",
+        "chart_review": "Physician must review/countersign charts; frequency per job description",
+        "meeting_cadence": "Per job description agreement",
+        "prescribing": "May order controlled substances under physician job description/delegation; same formulary framework as NP",
         "transition_hours": null
       },
       "NP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "One physician may issue nurse protocols to up to 3 APRNs; Ga. Comp. R. & Regs. 360-5-.02(5)",
+        "proximity": "No geographic proximity requirement by statute; physician must be accessible",
+        "chart_review": "Physician must review patient records regularly per protocol; no specific percentage mandated by statute (facility determines frequency)",
+        "meeting_cadence": "Protocol must include mechanisms for consultation; no statutory cadence",
+        "prescribing": "May order controlled substances Schedules II\u2013V from a formulary approved by the Georgia Composite Medical Board; O.C.G.A. \u00a7 43-34-23(b)(1)(B)(i). Note: 'ordering' is not 'prescribing' under GA law \u2014 NPs cannot issue written prescriptions independently.",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Same 3:1 cap (CNS in psychiatric/mental health specifically authorized under \u00a7 43-34-23)",
+        "proximity": "No geographic requirement; physician accessible",
+        "chart_review": "Per protocol",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "Psychiatric medications orderable under nurse protocol including controlled substances II\u2013V from board-approved formulary",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; anesthesiologist or operating surgeon",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision/order",
         "transition_hours": null
       },
       "CNM": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Within the 3:1 APRN cap",
+        "proximity": "No geographic requirement",
+        "chart_review": "Per protocol",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "May order medications under nurse protocol including obstetric medications",
         "transition_hours": null
       },
       "CNS": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "CNS (psychiatric/mental health specifically) authorized under \u00a7 43-34-23; 3:1 cap",
+        "proximity": "Per protocol",
+        "chart_review": "Per protocol",
+        "meeting_cadence": "Per protocol",
+        "prescribing": "May order medications under nurse protocol",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Nurse Protocol / Physician Delegation Protocol",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "O.C.G.A. \u00a7 43-34-23 \u2014 Delegation of authority to nurse or physician assistant",
+        "cite": "Ga. Code Ann. \u00a7 43-34-23 (2025)"
+      },
+      {
+        "text": "Georgia Composite Medical Board Rule 360-5-.02 \u2014 Advanced Practice Registered Nurses (ratio cap and formulary)",
+        "cite": "Ga. Comp. R. & Regs. 360-5-.02"
+      },
+      {
+        "text": "O.C.G.A. \u00a7 43-34-102 \u2014 Physician Assistant Act (PA job description/supervision)",
+        "cite": "Ga. Code Ann. \u00a7 43-34-102 (2025)"
+      },
+      {
+        "text": "Georgia Composite Medical Board \u2014 APRN Information",
+        "cite": "https://medicalboard.georgia.gov/advanced-practice-registered-nurses"
+      }
+    ]
   },
   "HI": {
     "code": "HI",
@@ -847,16 +940,16 @@
   "IL": {
     "code": "IL",
     "name": "Illinois",
-    "status": "supervision_required",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Full Schedule II\u2013V under collaboration agreement; 225 ILCS 95/7.7",
         "transition_hours": null
       },
       "NP": {
@@ -865,7 +958,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; 225 ILCS 65/65-40; prescriptive authority number required from IDFPR",
         "transition_hours": null
       },
       "PMHNP": {
@@ -874,16 +967,16 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; Illinois is not a CMS opt-out state",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
@@ -892,7 +985,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; 225 ILCS 65/65-40",
         "transition_hours": null
       },
       "CNS": {
@@ -901,13 +994,22 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; 225 ILCS 65/65-40",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required (APRNs); Collaboration Agreement (PAs)",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "225 ILCS 65/65-40 \u2014 Illinois Nurse Practice Act; APRN full practice authority; Schedule II\u2013V",
+        "cite": "225 Ill. Comp. Stat. 65/65-40 (2024)"
+      },
+      {
+        "text": "225 ILCS 95/7.7 \u2014 PA collaboration agreement and prescriptive authority",
+        "cite": "225 Ill. Comp. Stat. 95/7.7 (2024)"
+      }
+    ]
   },
   "IN": {
     "code": "IN",
@@ -1367,67 +1469,84 @@
   "MA": {
     "code": "MA",
     "name": "Massachusetts",
-    "status": "supervision_required",
+    "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Supervising physician accessible; no geographic distance specified",
+        "chart_review": "Physician reviews and countersigns charts; frequency per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "May prescribe Schedules II\u2013VI under physician supervision; M.G.L. c. 112, \u00a7 9F",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; supervising/collaborating physician accessible",
+        "chart_review": "Per collaborative agreement; 244 CMR 4.00 (Board of Registration in Nursing regs)",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "May prescribe Schedules II\u2013V pursuant to guidelines mutually agreed with supervising physician/NP with independent authority; M.G.L. c. 112, \u00a7 80E. Prescription must include supervising provider's name.",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Same as NP; psychiatric medications Schedules II\u2013V under collaborative guidelines; M.G.L. c. 112, \u00a7 80E",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; anesthesiologist or operating physician immediately available; Massachusetts is not a CMS opt-out state",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; collaborative agreement with physician",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Obstetric/gynecologic medications Schedules II\u2013V under collaborative guidelines; M.G.L. c. 112, \u00a7 80E",
         "transition_hours": null
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Same as NP under collaborative agreement",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Collaborative Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "M.G.L. c. 112, \u00a7 80E \u2014 NP and psychiatric nurse mental health clinical specialist prescriptive authority; collaborative guidelines; supervising provider's name on prescription",
+        "cite": "Mass. Gen. Laws c. 112, \u00a7 80E (2024)"
+      },
+      {
+        "text": "M.G.L. c. 112, \u00a7 9F \u2014 PA prescriptive authority under physician supervision",
+        "cite": "Mass. Gen. Laws c. 112, \u00a7 9F (2024)"
+      },
+      {
+        "text": "244 CMR 4.00 \u2014 Board of Registration in Nursing regulations for nurse practitioners",
+        "cite": "244 Mass. Code Regs. 4.00"
+      },
+      {
+        "text": "Massachusetts Board of Registration in Nursing \u2014 Advanced Practice Nursing",
+        "cite": "https://www.mass.gov/orgs/board-of-registration-in-nursing"
+      }
+    ]
   },
   "MI": {
     "code": "MI",
@@ -1438,75 +1557,96 @@
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Supervising physician accessible; no geographic distance specified",
+        "chart_review": "Per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "May prescribe Schedules II\u2013V under physician supervision agreement; MCL 333.17547",
         "transition_hours": null
       },
       "NP": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; supervising physician accessible",
+        "chart_review": "Physician must review and cosign at least 10% of charts; Mich. Admin. Code R. 338.10301 et seq.",
+        "meeting_cadence": "Regular consultation per delegation agreement; no statutory minimum frequency",
+        "prescribing": "May prescribe Schedules II\u2013V under delegation agreement; MCL 333.17048. Physician must delegate prescriptive authority separately.",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "10% chart cosignature",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Schedules II\u2013V including psychiatric medications under delegation agreement; MCL 333.17048",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; Michigan not a CMS opt-out state",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Supervising physician accessible",
+        "chart_review": "10% chart cosignature",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Obstetric/gynecologic medications under delegation agreement",
         "transition_hours": null
       },
       "CNS": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "10% chart cosignature",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Schedules II\u2013V under delegation agreement",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Delegation Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "MCL 333.17048 \u2014 NP prescriptive authority; delegation agreement; Schedules II\u2013V",
+        "cite": "Mich. Comp. Laws \u00a7 333.17048 (2024)"
+      },
+      {
+        "text": "MCL 333.17201 et seq. \u2014 Public Health Code; NP licensure and practice",
+        "cite": "Mich. Comp. Laws \u00a7 333.17201 et seq. (2024)"
+      },
+      {
+        "text": "MCL 333.17547 \u2014 PA supervision and prescriptive authority",
+        "cite": "Mich. Comp. Laws \u00a7 333.17547 (2024)"
+      },
+      {
+        "text": "Mich. Admin. Code R. 338.10301 \u2014 NP delegation agreement requirements; 10% chart cosignature",
+        "cite": "Mich. Admin. Code R. 338.10301 et seq."
+      },
+      {
+        "text": "Michigan Board of Nursing \u2014 Advanced Practice Registered Nursing",
+        "cite": "https://www.michigan.gov/lara/bureau-list/bpl/health/nursing"
+      }
+    ]
   },
   "MN": {
     "code": "MN",
     "name": "Minnesota",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Full Schedule II\u2013V under collaboration agreement; Minn. Stat. \u00a7 147A.18",
         "transition_hours": null
       },
       "NP": {
@@ -1515,7 +1655,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; Minn. Stat. \u00a7 148.235; must hold DEA registration",
         "transition_hours": null
       },
       "PMHNP": {
@@ -1524,7 +1664,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
@@ -1533,7 +1673,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Minnesota is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -1542,7 +1682,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; Minn. Stat. \u00a7 148.235",
         "transition_hours": null
       },
       "CNS": {
@@ -1551,13 +1691,30 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; Minn. Stat. \u00a7 148.235",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Minn. Stat. \u00a7 148.235 \u2014 APRN prescriptive authority; full Schedule II\u2013V; independent practice",
+        "cite": "Minn. Stat. \u00a7 148.235 (2024)"
+      },
+      {
+        "text": "Minn. Stat. \u00a7 147A.18 \u2014 PA collaboration agreement and prescriptive authority",
+        "cite": "Minn. Stat. \u00a7 147A.18 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (Minnesota opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      },
+      {
+        "text": "Minnesota Board of Nursing \u2014 Advanced Practice Registered Nurses",
+        "cite": "https://mn.gov/boards/nursing/aprn/"
+      }
+    ]
   },
   "MS": {
     "code": "MS",
@@ -1822,16 +1979,16 @@
   "NV": {
     "code": "NV",
     "name": "Nevada",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Schedules II\u2013V under collaboration agreement with physician; NRS 630.271",
         "transition_hours": null
       },
       "NP": {
@@ -1840,7 +1997,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; NRS 632.237; controlled substance registration (CSR) required",
         "transition_hours": null
       },
       "PMHNP": {
@@ -1849,7 +2006,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
@@ -1858,7 +2015,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Nevada is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -1867,7 +2024,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; NRS 632.237",
         "transition_hours": null
       },
       "CNS": {
@@ -1876,13 +2033,30 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; NRS 632.237",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "NRS 632.237 \u2014 Advanced practice registered nurses; prescriptive authority; full Schedule II\u2013V",
+        "cite": "Nev. Rev. Stat. \u00a7 632.237 (2024)"
+      },
+      {
+        "text": "NRS 630.271 \u2014 Physician assistant prescriptive authority; collaboration agreement",
+        "cite": "Nev. Rev. Stat. \u00a7 630.271 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (Nevada opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      },
+      {
+        "text": "Nevada State Board of Nursing \u2014 APRN",
+        "cite": "https://nevadanursingboard.org/advanced-practice-registered-nurses/"
+      }
+    ]
   },
   "NH": {
     "code": "NH",
@@ -2017,16 +2191,16 @@
   "NM": {
     "code": "NM",
     "name": "New Mexico",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Schedules II\u2013V under physician supervision agreement; NMSA \u00a7 61-6-17",
         "transition_hours": null
       },
       "NP": {
@@ -2035,7 +2209,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V including dangerous drugs; NMSA \u00a7 61-3-23.2(B)(2); may practice as primary care provider",
         "transition_hours": null
       },
       "PMHNP": {
@@ -2044,7 +2218,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications; NMSA \u00a7 61-3-23.2(B)(2)",
         "transition_hours": null
       },
       "CRNA": {
@@ -2053,7 +2227,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; New Mexico is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -2062,7 +2236,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; NMSA \u00a7 61-3-23.2",
         "transition_hours": null
       },
       "CNS": {
@@ -2071,143 +2245,194 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority under APRN framework",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "NMSA \u00a7 61-3-23.2 \u2014 Certified nurse practitioner; qualifications; independent practice; full prescriptive authority including Schedule II\u2013V",
+        "cite": "N.M. Stat. Ann. \u00a7 61-3-23.2 (2025)"
+      },
+      {
+        "text": "NMSA \u00a7 61-6-17 \u2014 Physician assistant practice; supervision agreement and prescriptive authority",
+        "cite": "N.M. Stat. Ann. \u00a7 61-6-17 (2025)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (New Mexico opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      },
+      {
+        "text": "New Mexico Board of Nursing \u2014 APRN",
+        "cite": "https://nmbon.sks.com/aprn.aspx"
+      }
+    ]
   },
   "NY": {
     "code": "NY",
     "name": "New York",
-    "status": "supervision_required",
+    "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "1 physician to max 4 PAs; N.Y. Educ. Law \u00a7 6542",
+        "proximity": "Physician physically present OR available by telecom at all times; N.Y. Educ. Law \u00a7 6542(2)",
+        "chart_review": "Co-sign charts per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "Schedules II\u2013V under physician supervision; N.Y. Educ. Law \u00a7 6542(4)",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "No geographic cap; physician collaboration available",
+        "chart_review": "Sample of charts reviewed per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Schedules II\u2013V under collaborative agreement; N.Y. Educ. Law \u00a7 6902(3)(b). After 3,600 hours: independent prescriptive authority available; \u00a7 6902(3)(d)",
+        "transition_hours": "3,600 hours for independent prescriptive authority; N.Y. Educ. Law \u00a7 6902(3)(d)"
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Schedules II\u2013V; same 3,600-hour independent prescribing path",
+        "transition_hours": "3,600 hours; N.Y. Educ. Law \u00a7 6902(3)(d)"
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; physically present or immediately available",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "No geographic cap; collaborative agreement required",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Full obstetric/gynecologic prescriptive authority under collaborative agreement; 3,600-hour independent path available",
+        "transition_hours": "3,600 hours; N.Y. Educ. Law \u00a7 6902(3)(d)"
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
+        "proximity": "No geographic cap",
+        "chart_review": "Per collaborative agreement",
+        "meeting_cadence": "Per collaborative agreement",
+        "prescribing": "Schedules II\u2013V under collaborative agreement",
+        "transition_hours": "3,600 hours; N.Y. Educ. Law \u00a7 6902(3)(d)"
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Collaborative Practice Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "N.Y. Educ. Law \u00a7 6902(3)(b) \u2014 NP collaborative practice agreement; prescriptive authority",
+        "cite": "N.Y. Educ. Law \u00a7 6902(3)(b) (McKinney 2024)"
+      },
+      {
+        "text": "N.Y. Educ. Law \u00a7 6902(3)(d) \u2014 3,600-hour independent prescriptive authority for NPs",
+        "cite": "N.Y. Educ. Law \u00a7 6902(3)(d) (McKinney 2024)"
+      },
+      {
+        "text": "N.Y. Educ. Law \u00a7 6542 \u2014 PA supervision; 4:1 ratio; physician presence/telecom requirement",
+        "cite": "N.Y. Educ. Law \u00a7 6542 (McKinney 2024)"
+      },
+      {
+        "text": "10 N.Y.C.R.R. \u00a7 94 \u2014 NP collaborative practice regulations",
+        "cite": "10 N.Y.C.R.R. \u00a7 94"
+      }
+    ]
   },
   "NC": {
     "code": "NC",
     "name": "North Carolina",
-    "status": "supervision_required",
+    "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "No explicit cap; determined by supervising physician's capacity",
+        "proximity": "Supervising physician must be available; no onsite requirement if immediately accessible by phone/telehealth",
+        "chart_review": "Must submit charts for physician review; frequency per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "May prescribe Schedules II\u2013V under physician supervision agreement; N.C.G.S. \u00a7 90-18.1",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "No statutory ratio cap for NPs; jointly set by NC Medical Board and NC Board of Nursing",
+        "proximity": "No geographic proximity requirement; supervising physician must be available for consultation",
+        "chart_review": "Supervising physician must review medical records; frequency and percentage per supervisory agreement",
+        "meeting_cadence": "Regular consultation required per supervisory agreement; no statutory minimum frequency",
+        "prescribing": "May prescribe all schedules including Schedule II under written supervisory agreement with physician; N.C.G.S. \u00a7 90-18.2(b); Schedule II narcotics for pain management require personal consultation with supervising physician if treatment exceeds 30 days at a pain-primarily facility",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; supervising physician consultation available",
+        "chart_review": "Per supervisory agreement",
+        "meeting_cadence": "Per supervisory agreement",
+        "prescribing": "Full Schedule II\u2013V prescribing under supervisory agreement including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; anesthesiologist or operating physician immediately available",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; physician consultation available",
+        "chart_review": "Per supervisory agreement",
+        "meeting_cadence": "Per supervisory agreement",
+        "prescribing": "May prescribe medications including controlled substances under supervisory agreement",
         "transition_hours": null
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Per supervisory agreement",
+        "chart_review": "Per supervisory agreement",
+        "meeting_cadence": "Per supervisory agreement",
+        "prescribing": "Same as NP under supervisory agreement",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Supervisory Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "N.C.G.S. \u00a7 90-18.2 \u2014 Limitations on nurse practitioners; prescriptive authority",
+        "cite": "N.C. Gen. Stat. \u00a7 90-18.2 (2024)"
+      },
+      {
+        "text": "N.C.G.S. \u00a7 90-18.1 \u2014 Limitations on physician assistants",
+        "cite": "N.C. Gen. Stat. \u00a7 90-18.1 (2024)"
+      },
+      {
+        "text": "21 N.C. Admin. Code 36.0801 \u2014 Nurse practitioner requirements (scope, supervisory agreement)",
+        "cite": "21 N.C. Admin. Code 36.0801"
+      },
+      {
+        "text": "North Carolina Medical Board & Board of Nursing Joint Statement on NP Practice",
+        "cite": "https://www.ncmedboard.org/resources-information/professional-resources/laws-rules-position-statements/position-statements/nurse-practitioners"
+      }
+    ]
   },
   "ND": {
     "code": "ND",
@@ -2277,67 +2502,84 @@
   "OH": {
     "code": "OH",
     "name": "Ohio",
-    "status": "supervision_required",
+    "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Physician accessible; no geographic distance in statute",
+        "chart_review": "Chart countersignature per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "Schedules II\u2013V under physician supervision; Ohio Rev. Code \u00a7 4730.09",
         "transition_hours": null
       },
       "NP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; collaborating physician available for consultation",
+        "chart_review": "Chart review per SCA terms; Ohio Admin. Code 4723-9-05",
+        "meeting_cadence": "Regular review meetings per SCA; Ohio Admin. Code 4723-9-05",
+        "prescribing": "Schedules II\u2013V under SCA; Ohio Rev. Code \u00a7 4723.431; no independent prescribing without SCA",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per SCA",
+        "meeting_cadence": "Per SCA",
+        "prescribing": "Schedules II\u2013V including psychiatric medications under SCA",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; Ohio not a CMS opt-out state",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap; collaborative physician available",
+        "chart_review": "Per SCA",
+        "meeting_cadence": "Per SCA",
+        "prescribing": "Obstetric/gynecologic medications Schedules II\u2013V under SCA",
         "transition_hours": null
       },
       "CNS": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per SCA",
+        "meeting_cadence": "Per SCA",
+        "prescribing": "Schedules II\u2013V under SCA",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Standard Care Arrangement (SCA)",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Ohio Rev. Code \u00a7 4723.431 \u2014 NP prescriptive authority under Standard Care Arrangement; Schedules II\u2013V",
+        "cite": "Ohio Rev. Code \u00a7 4723.431 (2024)"
+      },
+      {
+        "text": "Ohio Rev. Code \u00a7 4723.56 \u2014 Standard Care Arrangement; collaborating physician requirement",
+        "cite": "Ohio Rev. Code \u00a7 4723.56 (2024)"
+      },
+      {
+        "text": "Ohio Admin. Code 4723-9-05 \u2014 SCA content and review requirements",
+        "cite": "Ohio Admin. Code 4723-9-05 (2024)"
+      },
+      {
+        "text": "Ohio Rev. Code \u00a7 4730.09 \u2014 PA prescriptive authority; physician supervision",
+        "cite": "Ohio Rev. Code \u00a7 4730.09 (2024)"
+      }
+    ]
   },
   "OK": {
     "code": "OK",
@@ -2407,16 +2649,16 @@
   "OR": {
     "code": "OR",
     "name": "Oregon",
-    "status": "conditional_independence",
+    "status": "independent",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full Schedule II\u2013V under practice agreement; ORS 677.505",
         "transition_hours": null
       },
       "NP": {
@@ -2425,7 +2667,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; ORS 678.390; must hold Oregon CS prescribing registration and DEA registration",
         "transition_hours": null
       },
       "PMHNP": {
@@ -2434,7 +2676,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
@@ -2443,7 +2685,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Oregon is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -2452,7 +2694,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; ORS 678.390",
         "transition_hours": null
       },
       "CNS": {
@@ -2461,13 +2703,34 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; ORS 678.390",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "ORS Chapter 678 \u2014 Nurses; Long Term Care Administrators (APRN framework; 2026 session amendments noted)",
+        "cite": "Or. Rev. Stat. ch. 678 (2025 ed., 2026 R1 amendments pending)"
+      },
+      {
+        "text": "ORS 678.390 \u2014 APRN prescriptive authority; full Schedule II\u2013V",
+        "cite": "Or. Rev. Stat. \u00a7 678.390 (2025)"
+      },
+      {
+        "text": "ORS 677.505 \u2014 PA practice agreement and prescriptive authority",
+        "cite": "Or. Rev. Stat. \u00a7 677.505 (2025)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (Oregon opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      },
+      {
+        "text": "Oregon State Board of Nursing \u2014 APRN",
+        "cite": "https://www.oregon.gov/osbn/pages/aprn.aspx"
+      }
+    ]
   },
   "PA": {
     "code": "PA",
@@ -2478,61 +2741,74 @@
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Physician accessible by telecom at all times during work hours; 63 P.S. \u00a7 422.47a",
+        "chart_review": "10% monthly chart countersignature; 63 P.S. \u00a7 422.47a",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "Schedules II\u2013V under supervision agreement; 63 P.S. \u00a7 422.47a(c)",
         "transition_hours": null
       },
       "NP": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Collaborating physician accessible; no geographic distance specified",
+        "chart_review": "Chart review per collaboration agreement; no statutory percentage but 10% is common practice",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Schedules II\u2013V under collaboration agreement; 63 P.S. \u00a7 212; Schedule II limited to 30-day supply",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Collaborating physician accessible",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Schedules II\u2013V including psychiatric medications; 30-day Schedule II cap",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; anesthesiologist or operating physician immediately available",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision; CRNA certification framework launched October 2026",
         "transition_hours": null
       },
       "CNM": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Collaborating physician accessible",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Obstetric/gynecologic medications Schedules II\u2013V under collaboration agreement",
         "transition_hours": null
       },
       "CNS": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Collaborating physician accessible",
+        "chart_review": "Per collaboration agreement",
+        "meeting_cadence": "Per collaboration agreement",
+        "prescribing": "Schedules II\u2013V under collaboration agreement",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Collaboration Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "63 P.S. \u00a7 212 \u2014 CRNPs; collaboration agreement; prescriptive authority Schedule II\u2013V",
+        "cite": "63 Pa. Stat. \u00a7 212 (2024)"
+      },
+      {
+        "text": "63 P.S. \u00a7 422.47a \u2014 PA supervision; telecom accessibility; 10% chart countersignature",
+        "cite": "63 Pa. Stat. \u00a7 422.47a (2024)"
+      },
+      {
+        "text": "Pennsylvania Bulletin \u2014 CRNA Certification (effective October 10, 2026)",
+        "cite": "Pa. Bull., Vol. 56, No. 41 (2026)"
+      }
+    ]
   },
   "PR": {
     "code": "PR",
@@ -2803,61 +3079,74 @@
       "PA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Physician accessible; no geographic distance specified in statute",
+        "chart_review": "Per supervision agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "Schedules II\u2013V under physician delegation; Tenn. Code Ann. \u00a7 63-19-111",
         "transition_hours": null
       },
       "NP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "1 physician to max 3 APRNs; Tenn. Code Ann. \u00a7 63-7-123(c)",
+        "proximity": "Must be in the same county, an adjacent county, or within 50 miles; Tenn. Code Ann. \u00a7 63-7-123(c)(1)",
+        "chart_review": "Physician must review and countersign 20% of charts per month; Tenn. Code Ann. \u00a7 63-7-123(c)(4)",
+        "meeting_cadence": "Monthly meeting with supervising physician required; Tenn. Code Ann. \u00a7 63-7-123(c)(3)",
+        "prescribing": "Schedules III\u2013V; Schedule II limited to 30-day supply (chronic) or 72-hour emergency; Tenn. Code Ann. \u00a7 63-7-123(d)",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Same 3:1 cap; Tenn. Code Ann. \u00a7 63-7-123(c)",
+        "proximity": "50-mile/adjacent county; Tenn. Code Ann. \u00a7 63-7-123(c)(1)",
+        "chart_review": "20% monthly countersignature",
+        "meeting_cadence": "Monthly meeting required",
+        "prescribing": "Schedules II\u2013V psychiatric medications under agreement; Schedule II limited to 30-day supply",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "Physician supervision required; immediate availability during procedure",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Within the 3:1 APRN cap",
+        "proximity": "50-mile/adjacent county",
+        "chart_review": "20% monthly countersignature",
+        "meeting_cadence": "Monthly meeting required",
+        "prescribing": "Obstetric medications including controlled substances under agreement",
         "transition_hours": null
       },
       "CNS": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Within the 3:1 APRN cap",
+        "proximity": "50-mile/adjacent county",
+        "chart_review": "20% monthly countersignature",
+        "meeting_cadence": "Monthly meeting required",
+        "prescribing": "Schedules III\u2013V under collaborative agreement",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Collaborative Practice Agreement",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Tenn. Code Ann. \u00a7 63-7-123 \u2014 Collaborative practice between APRNs and physicians; ratio, proximity, chart review, meetings",
+        "cite": "Tenn. Code Ann. \u00a7 63-7-123 (2024)"
+      },
+      {
+        "text": "Tenn. Code Ann. \u00a7 63-19-111 \u2014 PA prescriptive authority",
+        "cite": "Tenn. Code Ann. \u00a7 63-19-111 (2024)"
+      },
+      {
+        "text": "Tennessee Board of Nursing \u2014 Advanced Practice",
+        "cite": "https://www.tn.gov/health/health-program-areas/health-professional-boards/bn-board/board-of-nursing/advanced-practice.html"
+      }
+    ]
   },
   "TX": {
     "code": "TX",
@@ -2867,62 +3156,87 @@
     "clinician_types": {
       "PA": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Physician may supervise up to 7 PAs; Tex. Occ. Code \u00a7 204.202",
+        "proximity": "Must be accessible; telehealth/phone permitted; no mandated onsite requirement",
+        "chart_review": "Physician must review and countersign charts per delegation agreement",
+        "meeting_cadence": "Per supervision agreement",
+        "prescribing": "May prescribe Schedules III\u2013V; Schedule II in limited circumstances; Tex. Occ. Code \u00a7\u00a7 204.201, 204.202",
         "transition_hours": null
       },
       "NP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "One physician may delegate to no more than 7 APRNs (3 in a medically underserved area, up to 5 in some settings); see 22 TAC \u00a7 193.6",
+        "proximity": "No distance limit by statute, but physician must be accessible (by phone/telehealth); no onsite requirement",
+        "chart_review": "Physician must review and sign 10% of charts monthly (22 TAC \u00a7 222.5)",
+        "meeting_cadence": "No statutory minimum meeting frequency; subject to delegation agreement terms",
+        "prescribing": "Delegated prescriptive authority; may prescribe Schedules III\u2013V and limited Schedule II (< 90-day supply) under 22 TAC \u00a7\u00a7 193, 222; physician must delegate prescriptive authority separately",
         "transition_hours": null
       },
       "PMHNP": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Same as NP (7:1 general cap, 22 TAC \u00a7 193.6)",
+        "proximity": "No distance limit; phone/telehealth access required",
+        "chart_review": "10% monthly chart review (22 TAC \u00a7 222.5)",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Same as NP; prescribing psychiatric medications including certain controlled substances under physician delegation",
         "transition_hours": null
       },
       "CRNA": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
+        "proximity": "Must be under physician (anesthesiologist or surgeon) supervision; immediate availability required during procedure",
+        "chart_review": "Per hospital/facility credentialing",
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "May administer anesthetic agents under physician order/supervision",
         "transition_hours": null
       },
       "CNM": {
         "status": "supervision_required",
         "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "proximity": "Collaboration agreement with physician required; Tex. Occ. Code Ch. 301",
+        "chart_review": "Per delegation agreement",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Delegated prescriptive authority; Schedules III\u2013V under physician delegation",
         "transition_hours": null
       },
       "CNS": {
         "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
+        "ratio_cap": "Same 7:1 cap as NP",
+        "proximity": "Physician accessible by phone/telehealth",
+        "chart_review": "10% monthly chart review",
+        "meeting_cadence": "Per delegation agreement",
+        "prescribing": "Delegated prescriptive authority",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "Delegation Agreement / Protocol",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "Texas Occupations Code \u00a7 157 \u2014 Delegation of Certain Medical Acts (APRN delegation framework)",
+        "cite": "Tex. Occ. Code \u00a7\u00a7 157.001\u2013157.0515"
+      },
+      {
+        "text": "Texas Occupations Code \u00a7 204 \u2014 Physician Assistants",
+        "cite": "Tex. Occ. Code \u00a7\u00a7 204.001\u2013204.401"
+      },
+      {
+        "text": "Texas Occupations Code \u00a7 301 \u2014 Nursing Practice Act",
+        "cite": "Tex. Occ. Code \u00a7\u00a7 301.001\u2013301.705"
+      },
+      {
+        "text": "22 TAC \u00a7 222 \u2014 Advanced Practice Registered Nurses (prescriptive authority)",
+        "cite": "22 Tex. Admin. Code \u00a7\u00a7 222.1\u2013222.10"
+      },
+      {
+        "text": "22 TAC \u00a7 193.6 \u2014 Physician supervision ratios",
+        "cite": "22 Tex. Admin. Code \u00a7 193.6"
+      },
+      {
+        "text": "Texas Board of Nursing \u2014 Advanced Practice Registered Nurses",
+        "cite": "https://www.bon.texas.gov/advanced_practice.asp"
+      }
+    ]
   },
   "UT": {
     "code": "UT",
@@ -3057,81 +3371,94 @@
   "VA": {
     "code": "VA",
     "name": "Virginia",
-    "status": "supervision_required",
-    "updated": "2026-11-20",
-    "clinician_types": {
-      "PA": {
-        "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      },
-      "NP": {
-        "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      },
-      "PMHNP": {
-        "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      },
-      "CRNA": {
-        "status": "supervision_required",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      },
-      "CNM": {
-        "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      },
-      "CNS": {
-        "status": "conditional_independence",
-        "ratio_cap": null,
-        "proximity": null,
-        "chart_review": null,
-        "meeting_cadence": null,
-        "prescribing": null,
-        "transition_hours": null
-      }
-    },
-    "agreement_name": null,
-    "summary": null,
-    "citations": []
-  },
-  "WA": {
-    "code": "WA",
-    "name": "Washington",
     "status": "conditional_independence",
     "updated": "2026-11-20",
     "clinician_types": {
       "PA": {
         "status": "conditional_independence",
         "ratio_cap": null,
-        "proximity": null,
+        "proximity": "No geographic cap; supervising physician accessible",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Schedules II\u2013VI under practice agreement; Va. Code \u00a7 54.1-2952.1",
+        "transition_hours": null
+      },
+      "NP": {
+        "status": "conditional_independence",
+        "ratio_cap": null,
+        "proximity": "No geographic cap; telemedicine consultation expressly permitted; Va. Code \u00a7 54.1-2957(C)",
+        "chart_review": "Periodic review as determined by APRN and patient care team physician; Va. Code \u00a7 54.1-2957(D)",
+        "meeting_cadence": "Periodic joint evaluation per practice agreement; no statutory minimum frequency",
+        "prescribing": "Full Schedule II\u2013VI under practice agreement; same authority after independence requirements met",
+        "transition_hours": "5 years full-time post-licensure clinical experience (or part-time equivalent); Va. Code \u00a7 54.1-2957(I) \u2014 after which, no agreement required"
+      },
+      "PMHNP": {
+        "status": "conditional_independence",
+        "ratio_cap": null,
+        "proximity": "No geographic cap; telemedicine permitted",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full Schedule II\u2013VI including psychiatric medications",
+        "transition_hours": "5 years; Va. Code \u00a7 54.1-2957(I)"
+      },
+      "CRNA": {
+        "status": "supervision_required",
+        "ratio_cap": null,
+        "proximity": "Must practice under supervision of licensed physician; Va. Code \u00a7 54.1-2957(C)",
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Anesthetic agents under physician supervision",
+        "transition_hours": null
+      },
+      "CNM": {
+        "status": "conditional_independence",
+        "ratio_cap": null,
+        "proximity": "CNM-specific subsection H applies; Va. Code \u00a7 54.1-2957(H)",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full obstetric/gynecologic prescriptive authority under practice agreement",
+        "transition_hours": "5 years for full independence; Va. Code \u00a7 54.1-2957(I)"
+      },
+      "CNS": {
+        "status": "conditional_independence",
+        "ratio_cap": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full prescriptive authority under practice agreement",
+        "transition_hours": "5 years; Va. Code \u00a7 54.1-2957(I)"
+      }
+    },
+    "agreement_name": "Practice Agreement",
+    "summary": null,
+    "citations": [
+      {
+        "text": "Va. Code \u00a7 54.1-2957 \u2014 APRN licensure; practice agreements; 5-year independence; CRNA supervision",
+        "cite": "Va. Code Ann. \u00a7 54.1-2957 (2024)"
+      },
+      {
+        "text": "Va. Code \u00a7 54.1-2952.1 \u2014 PA prescriptive authority and practice agreements",
+        "cite": "Va. Code Ann. \u00a7 54.1-2952.1 (2024)"
+      },
+      {
+        "text": "18 Va. Admin. Code \u00a7\u00a7 85-20-10 et seq. \u2014 Joint Boards of Medicine and Nursing APRN regulations",
+        "cite": "18 Va. Admin. Code \u00a7\u00a7 85-20-10 et seq."
+      }
+    ]
+  },
+  "WA": {
+    "code": "WA",
+    "name": "Washington",
+    "status": "independent",
+    "updated": "2026-11-20",
+    "clinician_types": {
+      "PA": {
+        "status": "conditional_independence",
+        "ratio_cap": null,
+        "proximity": "No geographic cap",
+        "chart_review": "Per practice agreement",
+        "meeting_cadence": "Per practice agreement",
+        "prescribing": "Full Schedule II\u2013V under practice agreement with physician; RCW 18.71A.020",
         "transition_hours": null
       },
       "NP": {
@@ -3140,7 +3467,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full Schedule II\u2013V; RCW 18.79.250; must hold DEA registration and WA controlled substance registration",
         "transition_hours": null
       },
       "PMHNP": {
@@ -3149,7 +3476,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Same as NP; full Schedule II\u2013V including psychiatric medications",
         "transition_hours": null
       },
       "CRNA": {
@@ -3158,7 +3485,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full authority; Washington is a CMS CRNA opt-out state; 42 C.F.R. \u00a7 482.52(c)",
         "transition_hours": null
       },
       "CNM": {
@@ -3167,7 +3494,7 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; RCW 18.79.250",
         "transition_hours": null
       },
       "CNS": {
@@ -3176,13 +3503,34 @@
         "proximity": null,
         "chart_review": null,
         "meeting_cadence": null,
-        "prescribing": null,
+        "prescribing": "Full prescriptive authority; RCW 18.79.250",
         "transition_hours": null
       }
     },
-    "agreement_name": null,
+    "agreement_name": "N/A \u2014 No agreement required",
     "summary": null,
-    "citations": []
+    "citations": [
+      {
+        "text": "RCW 18.79.040 \u2014 Registered nursing practice definition; APRN scope",
+        "cite": "Wash. Rev. Code \u00a7 18.79.040 (2024)"
+      },
+      {
+        "text": "RCW 18.79.250 \u2014 APRN prescriptive authority; full Schedule II\u2013V",
+        "cite": "Wash. Rev. Code \u00a7 18.79.250 (2024)"
+      },
+      {
+        "text": "RCW 18.71A.020 \u2014 PA practice agreement and prescriptive authority",
+        "cite": "Wash. Rev. Code \u00a7 18.71A.020 (2024)"
+      },
+      {
+        "text": "42 CFR \u00a7 482.52(c) \u2014 CMS CRNA opt-out (Washington opt-out state)",
+        "cite": "42 C.F.R. \u00a7 482.52(c)"
+      },
+      {
+        "text": "Washington State Department of Health \u2014 Advanced Practice Registered Nurses",
+        "cite": "https://doh.wa.gov/licenses-permits-and-certificates/nursing-commission/advanced-practice-registered-nursing"
+      }
+    ]
   },
   "WV": {
     "code": "WV",
